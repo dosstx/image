@@ -376,10 +376,10 @@
   resolved "https://registry.yarnpkg.com/@nuxt/devalue/-/devalue-2.0.0.tgz#c7bd7e9a516514e612d5d2e511ffc399e0eac322"
   integrity sha512-YBI/6o2EBz02tdEJRBK8xkt3zvOFOWlLBf7WKYGBsSYSRtjjgrqPe2skp6VLLmKx5WbHHDNcW+6oACaurxGzeA==
 
-"@nuxt/image-edge@^1.0.0-27620550.0de5173":
-  version "1.0.0-27620550.0de5173"
-  resolved "https://registry.yarnpkg.com/@nuxt/image-edge/-/image-edge-1.0.0-27620550.0de5173.tgz#25df2909d3ab22624878c70dfc6824212a7b2800"
-  integrity sha512-x1Y+VVuNpn1WCpM5BjYfVfjyK/YwbUIVq5Yf3OAKpGS0z2tA5OFcDZCpVocXMPf4pYZ/eft2Weilm4VVUSn1uQ==
+"@nuxt/image-edge@^1.0.0-27621110.3d67108":
+  version "1.0.0-27621110.3d67108"
+  resolved "https://registry.yarnpkg.com/@nuxt/image-edge/-/image-edge-1.0.0-27621110.3d67108.tgz#8767b4ffe216f705383221612f014e4b074cccd8"
+  integrity sha512-vchkKUPRozYY7do1JN0jkakyuUsxFSCvq+2XpytG+wh6hgzHK5DZOW9ReDFinGNgTk2dXtumRMSzUjxQmMy5wg==
   dependencies:
     "@nuxt/kit" "^3.0.0-rc.4"
     consola "^2.15.3"
@@ -390,7 +390,7 @@
     node-fetch-native "^0.1.4"
     ohash "^0.1.0"
     pathe "^0.3.2"
-    ufo "^0.8.4"
+    ufo "^0.8.5"
   optionalDependencies:
     ipx "^0.9.10"
 
